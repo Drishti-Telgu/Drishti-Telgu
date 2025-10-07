@@ -7,9 +7,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a **self-taught cybersecurity learner** currently building my skills through **Google and Microsoft certifications**, hands-on labs, and real project documentation.
+I'm currently focused on building a strong foundation in **cybersecurity** through professional certifications and self-guided learning.
 
-My GitHub is a growing portfolio where I share everything I’m learning — from **Linux commands** and **network security** to **Python logic building**, **SQL**, and **Android basics**.
+This GitHub is where I document and share my work — including **certificates**, **hands-on labs**, **Python mini-projects**, and **technical notes** on tools like Linux, Wireshark, and more.
 
 ---
 
@@ -20,7 +20,7 @@ My GitHub is a growing portfolio where I share everything I’m learning — fro
 
 - ✅ **Microsoft Student SOC Program – Foundations Training**
 
-- 🛠️ Learning with tools like: Wireshark, Nmap, Splunk, VirtualBox, Kali Linux, GitHub
+- 🛠️ Tools I’m learning: Wireshark, Nmap, Splunk, VirtualBox, Kali Linux, Git & GitHub
 
 ---
 
@@ -33,7 +33,7 @@ My GitHub is a growing portfolio where I share everything I’m learning — fro
 | [Wireshark Basics](https://github.com/Drishti-Telgu/My-Basic-Wireshark-) | Packet analysis and network exploration using Wireshark | Wireshark, Networking |
 | [Beginner Python Projects](https://github.com/Drishti-Telgu/My-Beginners-PyCharm-Projects-) | Python logic building using simple projects | Python, PyCharm |
 | [SQL & Database Projects](https://github.com/Drishti-Telgu/My-Database-Design-Management-Projects-) | SQL queries, ER diagrams, DB design & reports | SQL, ERD |
-| [Android Studio Projects](https://github.com/Drishti-Telgu/My-Android-Studio-Projects-) | Android apps using buttons, UI design, input handling | Java, Android Studio |
+| [Android Studio Projects](https://github.com/Drishti-Telgu/My-Android-Studio-Projects-) | Android apps with buttons, UI design, input handling | Java, Android Studio |
 
 ---
 
@@ -41,9 +41,9 @@ My GitHub is a growing portfolio where I share everything I’m learning — fro
 
 - **Languages:** Python, SQL, Bash, Java (basic)
 - **Security Tools:** Wireshark, Nmap, Splunk (basic), Kali Linux, VirtualBox
-- **Platforms:** Linux (Ubuntu/Kali), Windows 10
+- **Platforms:** Linux (Ubuntu/Kali), Windows
 - **Tools:** PyCharm, VS Code, GitHub, Android Studio
-- **Soft Skills:** Documentation, Research, Time Management
+- **Soft Skills:** Documentation, Research, Logical Thinking
 
 ---
 
@@ -58,9 +58,9 @@ My GitHub is a growing portfolio where I share everything I’m learning — fro
 
 ## 📚 Currently Learning
 
-- Continuing the **Google Cybersecurity Certificate (Course 4 → 9)**
-- Practicing **Linux terminal**, **packet sniffing**, and **Python scripting**
-- Exploring **SIEM**, threat modeling, and SOC workflows
+- Continuing the **Google Cybersecurity Certificate (Courses 4–9)**
+- Exploring tools like **Wireshark**, **Linux CLI**, **Python scripting**
+- Practicing cybersecurity concepts through personal projects
 
 ---
 
@@ -70,5 +70,4 @@ My GitHub is a growing portfolio where I share everything I’m learning — fro
 
 ---
 
-> 🧠 *I may not have a degree in progress, but I have the drive to learn and the curiosity to build.*  
-> 🛠️ *This GitHub is a living portfolio of everything I'm working on — raw, real, and growing.*
+> 🌱 *This GitHub is a growing archive of my learning journey — full of real projects, tools, and notes from hands-on exploration.*
