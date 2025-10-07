@@ -81,7 +81,9 @@ This GitHub is where I document and share my work — including **certificates**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drishti-Telgu&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
+
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
