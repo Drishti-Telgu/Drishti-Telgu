@@ -68,7 +68,20 @@ This GitHub is where I document and share my work — including **certificates**
 </p>
 
 ---
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Drishti-Telgu&theme=radical&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drishti-Telgu&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+---
 ## 📊 GitHub Stats
 
 <p align="center">
