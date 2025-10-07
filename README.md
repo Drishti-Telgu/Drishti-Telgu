@@ -68,6 +68,8 @@ This GitHub is where I document and share my work — including **certificates**
 </p>
 
 ---
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
