@@ -1,112 +1,220 @@
-<h1 align="center">Hey there, I'm Drishti 👋</h1>
+<h1 align="center">Hi there, I'm Drishti Telgu 👋</h1>
+
 <p align="center">
-🛡️ Cybersecurity Learner • 🐍 Python Explorer • 🖥️ Terminal Nerd
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Learner;Google+Cybersecurity+Professional+Certificate;Python+Developer;Linux+Explorer;Future+Security+Engineer;Building+Projects+One+Step+at+a+Time" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Drishti-Telgu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I'm currently focused on building a strong foundation in **cybersecurity** through professional certifications and self-guided learning.
+I'm passionate about **Cybersecurity**, **Python**, and **Linux**.
 
-This GitHub is where I document and share my work — including **certificates**, **hands-on labs**, **Python mini-projects**, and **technical notes** on tools like Linux, Wireshark, and more.
+I'm currently building my cybersecurity skills through professional certifications, hands-on labs, and personal projects.
 
----
+This GitHub serves as my learning portfolio where I document everything I learn—from Linux commands and networking concepts to Python scripting and cybersecurity tools.
 
-## 📜 Certifications
+### 🎯 Career Goals
 
-- 🟢 **Google Cybersecurity Professional Certificate**  
-  (Completed Courses: 1️⃣ Foundations • 2️⃣ Manage Security Risks • 3️⃣ Networks & Network Security)
-
-- ✅ **Microsoft Student SOC Program – Foundations Training**
-
-- 🛠️ Tools I’m learning: Wireshark, Nmap, Splunk, VirtualBox, Kali Linux, Git & GitHub
-
----
-
-## 💼 My Highlight Repositories
-
-| 📁 Repository | 📄 Description | 🛠️ Topics |
-|--------------|----------------|-----------|
-| [Cybersecurity Certificates & Notes](https://github.com/Drishti-Telgu/My-Cybersecurity-Certificates-and-Learnings-) | Certificates + detailed notes from each Google course | Certifications, Docs |
-| [Kali Linux Diaries](https://github.com/Drishti-Telgu/My-Kali-Linux-Diaries-) | Linux tasks, CLI commands, screenshots from Kali Linux | Linux, Terminal |
-| [Wireshark Basics](https://github.com/Drishti-Telgu/My-Basic-Wireshark-) | Packet analysis and network exploration using Wireshark | Wireshark, Networking |
-| [Beginner Python Projects](https://github.com/Drishti-Telgu/My-Beginners-PyCharm-Projects-) | Python logic building using simple projects | Python, PyCharm |
-| [SQL & Database Projects](https://github.com/Drishti-Telgu/My-Database-Design-Management-Projects-) | SQL queries, ER diagrams, DB design & reports | SQL, ERD |
-| [Android Studio Projects](https://github.com/Drishti-Telgu/My-Android-Studio-Projects-) | Android apps with buttons, UI design, input handling | Java, Android Studio |
+- 🛡️ Become a Security Engineer
+- 🔍 Learn SOC Operations & Threat Hunting
+- ☁️ Explore Cloud Security
+- 🤖 Build AI-powered Cybersecurity Solutions
+- 📚 Keep learning every single day
 
 ---
 
-## 🧠 Skills & Tools
+# 📜 Certifications
 
-- **Languages:** Python, SQL, Bash, Java (basic)
-- **Security Tools:** Wireshark, Nmap, Splunk (basic), Kali Linux, VirtualBox
-- **Platforms:** Linux (Ubuntu/Kali), Windows
-- **Tools:** PyCharm, VS Code, GitHub, Android Studio
-- **Soft Skills:** Documentation, Research, Logical Thinking
+### 🟢 Google Cybersecurity Professional Certificate
+
+✅ Course 1 – Foundations of Cybersecurity
+
+✅ Course 2 – Play It Safe: Manage Security Risks
+
+✅ Course 3 – Connect & Protect: Networks and Network Security
+
+🔄 Currently Continuing Courses 4–9
 
 ---
-## 💻 Tech Stack
+
+### 🟦 Microsoft Student SOC Program
+
+✅ Foundations Training Completed
+
+---
+
+# 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  
+<img src="https://skillicons.dev/icons?i=python,bash,java,linux,ubuntu,git,github,vscode,androidstudio,mysql&perline=5"/>
+</p>
+
+### Currently Learning
+
+- Kali Linux
+- Wireshark
+- Nmap
+- Splunk
+- SQL
+- Git & GitHub
+- Python Automation
+- VirtualBox
+
+---
+
+# 🚀 Learning Roadmap
+
+| Status | Skill |
+|---------|-------|
+| ✅ | Linux Fundamentals |
+| ✅ | Networking Basics |
+| ✅ | Git & GitHub |
+| ✅ | Python Basics |
+| ✅ | SQL Basics |
+| 🟡 | Kali Linux |
+| 🟡 | Wireshark |
+| 🟡 | Nmap |
+| 🟡 | Splunk |
+| 🟡 | SOC Operations |
+| 🟡 | Threat Hunting |
+| 🔜 | Azure Security |
+| 🔜 | AWS Security |
+| 🔜 | Security+ |
+| 🔜 | Blue Team Labs |
+| 🔜 | Digital Forensics |
+
+---
+
+# ⭐ Featured Repositories
+
+| Repository | Description |
+|------------|-------------|
+| 🛡️ **Cybersecurity Certificates & Notes** | Google Cybersecurity Certificate notes and certificates |
+| 🐧 **Kali Linux Diaries** | Linux practice, commands and screenshots |
+| 🌐 **Wireshark Basics** | Packet analysis and networking labs |
+| 🐍 **Python Projects** | Beginner Python programs and mini projects |
+| 🗄️ **SQL & Database Projects** | SQL queries, ER diagrams and reports |
+| 📱 **Android Studio Projects** | Android applications built using Java |
+
+---
+
+# 💻 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drishti-Telgu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drishti-Telgu&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
----
 
-## 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Drishti-Telgu&theme=radical&margin-w=10&margin-h=10" />
+<img src="https://streak-stats.demolab.com?user=Drishti-Telgu&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 GitHub Streak
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drishti-Telgu&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://github-profile-trophy.vercel.app/?username=Drishti-Telgu&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drishti-Telgu&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drishti-Telgu&layout=compact&theme=radical" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Drishti-Telgu&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 📊 Skills
 
-- Continuing the **Google Cybersecurity Certificate (Courses 4–9)**
-- Exploring tools like **Wireshark**, **Linux CLI**, **Python scripting**
-- Practicing cybersecurity concepts through personal projects
+### Programming
+
+- Python
+- SQL
+- Java (Basic)
+- Bash
+
+### Operating Systems
+
+- Windows
+- Ubuntu Linux
+- Kali Linux
+
+### Cybersecurity
+
+- Networking
+- Wireshark
+- Nmap
+- Linux CLI
+- Splunk (Learning)
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- PyCharm
+- Android Studio
+- VirtualBox
 
 ---
 
-## 📫 Contact
+# 📚 Currently Learning
 
-📧 **drishti.telgu@gmail.com**
+- Google Cybersecurity Professional Certificate (Courses 4–9)
+- Linux Administration
+- Python Automation
+- Network Security
+- Wireshark Packet Analysis
+- SIEM Concepts
+- Threat Detection
+- Splunk
 
 ---
 
-> 🌱 *This GitHub is a growing archive of my learning journey — full of real projects, tools, and notes from hands-on exploration.*
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Drishti-Telgu">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:drishti.telgu@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<!-- Replace YOUR-LINKEDIN-USERNAME with your LinkedIn profile -->
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Cybersecurity is not about knowing everything. It's about learning something new every day and applying it to solve real-world problems."**
+
+---
+
+# ❤️ Thanks for Visiting
+
+⭐ If you enjoy my projects, consider starring my repositories.
+
+I'm always learning, improving, and building new cybersecurity projects.
+
+Happy Coding! 🚀
