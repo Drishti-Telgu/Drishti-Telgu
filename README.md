@@ -196,11 +196,6 @@ This GitHub serves as my learning portfolio where I document everything I learnâ
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<!-- Replace YOUR-LINKEDIN-USERNAME with your LinkedIn profile -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
 </p>
 
 ---
