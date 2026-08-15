@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Drishti Telgu 👋</h1>
+<h1 align="center">Hi, I'm Drishti👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Learner;Google+Cybersecurity+Professional+Certificate;Python+Developer;Linux+Explorer;Future+Security+Engineer;Building+Projects+One+Step+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Cloud+%26+Security+Enthusiast;Python+Learner;Linux+Explorer;Security+Engineering+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,204 +12,171 @@
 
 # 👩‍💻 About Me
 
-I'm passionate about **Cybersecurity**, **Python**, and **Linux**.
+I'm a **Cybersecurity student and technology enthusiast** interested in understanding how systems, networks, applications, and cloud environments can be protected against evolving security threats.
 
-I'm currently building my cybersecurity skills through professional certifications, hands-on labs, and personal projects.
+I'm currently pursuing a **Bachelor of Computer Applications (BCA) with a specialization in Cloud & Security**.
 
-This GitHub serves as my learning portfolio where I document everything I learn—from Linux commands and networking concepts to Python scripting and cybersecurity tools.
+My current learning journey focuses on building a strong foundation in:
 
-### 🎯 Career Goals
+🛡️ Cybersecurity  
+☁️ Cloud Security  
+🐧 Linux  
+🐍 Python  
+🌐 Networking  
+🔍 Security Operations  
+📊 Threat Detection  
+🔐 Security Engineering  
 
-- 🛡️ Become a Security Engineer
-- 🔍 Learn SOC Operations & Threat Hunting
-- ☁️ Explore Cloud Security
-- 🤖 Build AI-powered Cybersecurity Solutions
-- 📚 Keep learning every single day
+I believe cybersecurity is best learned through a combination of **theory, hands-on practice, experimentation, and continuous problem-solving**.
+
+This GitHub profile documents my technical learning journey, projects, experiments, notes, and progress as I develop my cybersecurity skills.
+
+---
+
+# 🎓 Education
+
+### Bachelor of Computer Applications (BCA)
+**Specialization: Cloud & Security**
+
+Currently pursuing my bachelor's degree while developing practical skills in cybersecurity, cloud computing, programming, and security engineering.
 
 ---
 
 # 📜 Certifications
 
-### 🟢 Google Cybersecurity Professional Certificate
+## 🟢 Google Cybersecurity Professional Certificate
 
-✅ Course 1 – Foundations of Cybersecurity
+**Completed 9/9 courses ✅**
 
-✅ Course 2 – Play It Safe: Manage Security Risks
+### Courses Completed
 
-✅ Course 3 – Connect & Protect: Networks and Network Security
+- ✅ Foundations of Cybersecurity
+- ✅ Play It Safe: Manage Security Risks
+- ✅ Connect and Protect: Networks and Network Security
+- ✅ Tools of the Trade: Linux and SQL
+- ✅ Assets, Threats, and Vulnerabilities
+- ✅ Sound the Alarm: Detection and Response
+- ✅ Automate Cybersecurity Tasks with Python
+- ✅ Put It to Work: Prepare for Cybersecurity Jobs
+- ✅ Accelerate Your Job Search with AI
 
-🔄 Currently Continuing Courses 4–9
+### Key Areas Covered
+
+`Cybersecurity Fundamentals` • `Risk Management` • `Networking` • `Linux` • `SQL` • `Vulnerability Management` • `Incident Response` • `Python Automation` • `Security Operations`
 
 ---
 
-### 🟦 Microsoft Student SOC Program
+## 🟦 Microsoft Student SOC Program
 
-✅ Foundations Training Completed
+- ✅ Foundations Training Completed
 
 ---
 
-# 🛠️ Technologies & Tools
+# 🛠️ Technical Skills
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,java,linux,ubuntu,git,github,vscode,androidstudio,mysql&perline=5"/>
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,bash,mysql" />
 </p>
-
-### Currently Learning
-
-- Kali Linux
-- Wireshark
-- Nmap
-- Splunk
-- SQL
-- Git & GitHub
-- Python Automation
-- VirtualBox
-
----
-
-# 🚀 Learning Roadmap
-
-| Status | Skill |
-|---------|-------|
-| ✅ | Linux Fundamentals |
-| ✅ | Networking Basics |
-| ✅ | Git & GitHub |
-| ✅ | Python Basics |
-| ✅ | SQL Basics |
-| 🟡 | Kali Linux |
-| 🟡 | Wireshark |
-| 🟡 | Nmap |
-| 🟡 | Splunk |
-| 🟡 | SOC Operations |
-| 🟡 | Threat Hunting |
-| 🔜 | Azure Security |
-| 🔜 | AWS Security |
-| 🔜 | Security+ |
-| 🔜 | Blue Team Labs |
-| 🔜 | Digital Forensics |
-
----
-
-# ⭐ Featured Repositories
-
-| Repository | Description |
-|------------|-------------|
-| 🛡️ **Cybersecurity Certificates & Notes** | Google Cybersecurity Certificate notes and certificates |
-| 🐧 **Kali Linux Diaries** | Linux practice, commands and screenshots |
-| 🌐 **Wireshark Basics** | Packet analysis and networking labs |
-| 🐍 **Python Projects** | Beginner Python programs and mini projects |
-| 🗄️ **SQL & Database Projects** | SQL queries, ER diagrams and reports |
-| 📱 **Android Studio Projects** | Android applications built using Java |
-
----
-
-# 💻 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drishti-Telgu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drishti-Telgu&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Drishti-Telgu&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Drishti-Telgu&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Drishti-Telgu&theme=tokyo-night"/>
-</p>
-
----
-
-# 📊 Skills
-
-### Programming
 
 - Python
 - SQL
-- Java (Basic)
+- Java
 - Bash
 
-### Operating Systems
+### 🐧 Operating Systems
 
-- Windows
-- Ubuntu Linux
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" />
+</p>
+
+- Linux
 - Kali Linux
+- Ubuntu
+- Windows
 
-### Cybersecurity
+### 🛡️ Cybersecurity
 
-- Networking
-- Wireshark
-- Nmap
-- Linux CLI
-- Splunk (Learning)
+- Cybersecurity Fundamentals
+- Network Security
+- Security Risk Management
+- Vulnerability Management
+- Threat Detection
+- Incident Response
+- Security Monitoring
+- Security Automation
+- SOC Fundamentals
+- Security Analysis
 
-### Tools
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker" />
+</p>
 
 - Git
 - GitHub
 - VS Code
 - PyCharm
-- Android Studio
 - VirtualBox
-
----
-
-# 📚 Currently Learning
-
-- Google Cybersecurity Professional Certificate (Courses 4–9)
-- Linux Administration
-- Python Automation
-- Network Security
-- Wireshark Packet Analysis
-- SIEM Concepts
-- Threat Detection
+- Wireshark
+- Nmap
+- Burp Suite
 - Splunk
 
 ---
 
-# 🌐 Connect With Me
+# 🔬 Areas of Interest
 
-<p align="center">
+I'm particularly interested in exploring:
 
-<a href="https://github.com/Drishti-Telgu">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:drishti.telgu@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> **"Cybersecurity is not about knowing everything. It's about learning something new every day and applying it to solve real-world problems."**
+- 🛡️ Defensive Cybersecurity
+- 🔍 Security Operations & SOC
+- 🕵️ Threat Detection & Hunting
+- 🌐 Network Security
+- ☁️ Cloud Security
+- 🐧 Linux Security
+- 🐍 Security Automation with Python
+- 🔐 Security Engineering
+- 🤖 Artificial Intelligence & Cybersecurity
+- 🧩 Application Security
+- 📊 Security Monitoring & SIEM
 
 ---
 
-# ❤️ Thanks for Visiting
+# 📚 Current Learning
 
-⭐ If you enjoy my projects, consider starring my repositories.
+I'm continuously expanding my knowledge through:
 
-I'm always learning, improving, and building new cybersecurity projects.
+- Hands-on cybersecurity labs
+- Linux & networking practice
+- Python automation
+- Security tools
+- SIEM concepts
+- Threat detection
+- Incident response
+- Cloud security
+- Practical security projects
+- Open-source cybersecurity resources
 
-Happy Coding! 🚀
+---
+
+# 🧪 Hands-On Practice
+
+My learning environment includes:
+
+```text
+Kali Linux
+     ↓
+Linux & Security Labs
+     ↓
+Networking & Packet Analysis
+     ↓
+Security Tools
+     ↓
+Python Automation
+     ↓
+Detection & Investigation
+     ↓
+Cloud Security
