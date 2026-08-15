@@ -10,7 +10,7 @@
 
 ---
 
-# 👩‍💻 About Me
+# 👩🏻‍💻 About Me
 
 I'm a **Cybersecurity student and technology enthusiast** interested in understanding how systems, networks, applications, and cloud environments can be protected against evolving security threats.
 
