@@ -1,182 +1,180 @@
-<h1 align="center">Hi, I'm Drishti👋</h1>
+<h1 align="center">Hi, I'm Drishti 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Cloud+%26+Security+Enthusiast;Python+Learner;Linux+Explorer;Security+Engineering+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <strong>BCA (Cloud & Security) Student | Cybersecurity | Cloud | AI</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Drishti-Telgu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <em>Learning. Building. Documenting. Improving.</em>
 </p>
 
 ---
 
-# 👩🏻‍💻 About Me
+## 👩🏻‍💻 About Me
 
-I'm a **Cybersecurity student and technology enthusiast** interested in understanding how systems, networks, applications, and cloud environments can be protected against evolving security threats.
+I'm a **BCA student specializing in Cloud & Security**, currently building a strong foundation in cybersecurity, networking, Linux, programming, and cloud security.
 
-I'm currently pursuing a **Bachelor of Computer Applications (BCA) with a specialization in Cloud & Security**.
+I enjoy learning through a combination of **theory, hands-on labs, experimentation, and practical projects** rather than relying only on coursework.
 
-My current learning journey focuses on building a strong foundation in:
+My GitHub is where I document what I learn, build, and experiment with as I progress through my cybersecurity journey.
 
-🛡️ Cybersecurity  
-☁️ Cloud Security  
-🐧 Linux  
-🐍 Python  
-🌐 Networking  
-🔍 Security Operations  
-📊 Threat Detection  
-🔐 Security Engineering  
-
-I believe cybersecurity is best learned through a combination of **theory, hands-on practice, experimentation, and continuous problem-solving**.
-
-This GitHub profile documents my technical learning journey, projects, experiments, notes, and progress as I develop my cybersecurity skills.
+I'm particularly interested in **defensive cybersecurity, security operations, cloud security, security automation, and the intersection of AI and cybersecurity**.
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
 ### Bachelor of Computer Applications (BCA)
-**Specialization: Cloud & Security**
 
-Currently pursuing my bachelor's degree while developing practical skills in cybersecurity, cloud computing, programming, and security engineering.
+**Specialization:** Cloud & Security  
+**University:** Amity Online  
+**Current:** Semester 1
 
----
-
-# 📜 Certifications
-
-## 🟢 Google Cybersecurity Professional Certificate
-
-**Completed 9/9 courses ✅**
-
-### Courses Completed
-
-- ✅ Foundations of Cybersecurity
-- ✅ Play It Safe: Manage Security Risks
-- ✅ Connect and Protect: Networks and Network Security
-- ✅ Tools of the Trade: Linux and SQL
-- ✅ Assets, Threats, and Vulnerabilities
-- ✅ Sound the Alarm: Detection and Response
-- ✅ Automate Cybersecurity Tasks with Python
-- ✅ Put It to Work: Prepare for Cybersecurity Jobs
-- ✅ Accelerate Your Job Search with AI
-
-### Key Areas Covered
-
-`Cybersecurity Fundamentals` • `Risk Management` • `Networking` • `Linux` • `SQL` • `Vulnerability Management` • `Incident Response` • `Python Automation` • `Security Operations`
+I'm currently developing my foundations in computing, programming, cybersecurity, cloud technologies, and related areas through academic coursework and independent practice.
 
 ---
 
-## 🟦 Microsoft Student SOC Program
+## 🔐 Cybersecurity Focus
 
-- ✅ Foundations Training Completed
+Areas I'm currently exploring:
 
----
-
-# 🛠️ Technical Skills
-
-### 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,bash,mysql" />
-</p>
-
-- Python
-- SQL
-- Java
-- Bash
-
-### 🐧 Operating Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" />
-</p>
-
-- Linux
-- Kali Linux
-- Ubuntu
-- Windows
-
-### 🛡️ Cybersecurity
-
-- Cybersecurity Fundamentals
-- Network Security
-- Security Risk Management
-- Vulnerability Management
-- Threat Detection
-- Incident Response
-- Security Monitoring
-- Security Automation
-- SOC Fundamentals
-- Security Analysis
-
-### 🔧 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker" />
-</p>
-
-- Git
-- GitHub
-- VS Code
-- PyCharm
-- VirtualBox
-- Wireshark
-- Nmap
-- Burp Suite
-- Splunk
-
----
-
-# 🔬 Areas of Interest
-
-I'm particularly interested in exploring:
-
-- 🛡️ Defensive Cybersecurity
-- 🔍 Security Operations & SOC
-- 🕵️ Threat Detection & Hunting
+- 🛡️ Cybersecurity Fundamentals
 - 🌐 Network Security
+- 🐧 Linux & System Security
+- 🔎 Security Operations & SOC
+- 🚨 Threat Detection & Incident Response
+- 🔍 Vulnerability Management
 - ☁️ Cloud Security
-- 🐧 Linux Security
 - 🐍 Security Automation with Python
-- 🔐 Security Engineering
-- 🤖 Artificial Intelligence & Cybersecurity
-- 🧩 Application Security
-- 📊 Security Monitoring & SIEM
+- 📊 SIEM & Security Monitoring
+- 🤖 AI in Cybersecurity
 
 ---
 
-# 📚 Current Learning
+## 🚀 Building — CyberEd Academy
 
-I'm continuously expanding my knowledge through:
+### An AI-powered cybersecurity learning platform
 
-- Hands-on cybersecurity labs
-- Linux & networking practice
-- Python automation
-- Security tools
-- SIEM concepts
-- Threat detection
-- Incident response
-- Cloud security
-- Practical security projects
-- Open-source cybersecurity resources
+**CyberEd Academy** is an ongoing project I'm building to make cybersecurity easier and more approachable for learners.
+
+The idea is to use **AI teaching agents** to explain cybersecurity concepts, guide learners through topics, and create a more interactive learning experience.
+
+### Current areas of exploration
+
+- 🤖 AI-powered teaching agents
+- 🔐 Cybersecurity education
+- 🧠 Interactive learning
+- ☁️ Cloud & security concepts
+- 🛠️ Practical cybersecurity learning
+
+> 🚧 CyberEd Academy is currently under development.
 
 ---
 
-# 🧪 Hands-On Practice
+## 🏅 Academic Progress
 
-My learning environment includes:
+### Amity Online — Semester 1
 
-```text
-Kali Linux
-     ↓
-Linux & Security Labs
-     ↓
-Networking & Packet Analysis
-     ↓
-Security Tools
-     ↓
-Python Automation
-     ↓
-Detection & Investigation
-     ↓
-Cloud Security
+**3 modules completed • 3 badges earned**
+
+<p align="center">
+  <img src="./assets/badges/introduction-to-computers.png" width="150" alt="Introduction to Computers badge">
+  <img src="./assets/badges/essential-english-grammar.png" width="150" alt="Essential English Grammar badge">
+  <img src="./assets/badges/written-english-communication.png" width="150" alt="Written English Communication badge">
+</p>
+
+| Module | Status |
+|---|---|
+| Introduction to Computers | ✅ Completed |
+| Essential English Grammar | ✅ Completed |
+| Written English Communication | ✅ Completed |
+
+---
+
+## 📜 Certifications & Training
+
+### Google Cybersecurity Professional Certificate
+
+**9/9 courses completed**
+
+Key areas covered include:
+
+`Cybersecurity Fundamentals` • `Risk Management` • `Networking` • `Linux` • `SQL` • `Vulnerability Management` • `Detection & Response` • `Python Automation`
+
+### Microsoft Student SOC Program
+
+**Foundations Training — Completed**
+
+### Google Cloud Security Engineer
+
+**Currently pursuing**
+
+---
+
+## 🧪 Hands-On Learning
+
+I'm building practical experience through labs, exercises, and personal projects involving:
+
+- Linux and command-line environments
+- Networking and packet analysis
+- Cybersecurity fundamentals
+- Security tools and techniques
+- Python scripting and automation
+- Security monitoring and detection
+- Cloud security concepts
+
+My practical work and learning documentation are organized across my GitHub repositories.
+
+---
+
+## 🛠️ Technologies I'm Learning
+
+### Programming & Scripting
+
+`Python` `SQL` `Bash` `Java`
+
+### Systems & Platforms
+
+`Linux` `Ubuntu` `Kali Linux` `Windows`
+
+### Security & Networking
+
+`Wireshark` `Nmap` `Burp Suite` `Splunk` `VirtualBox`
+
+### Development
+
+`Git` `GitHub` `VS Code` `PyCharm` `Docker`
+
+---
+
+## 📂 Explore My GitHub
+
+🔐 **Cybersecurity Learning**  
+Practical notes, labs, experiments, and security-related learning.
+
+🏅 **Certifications**  
+My completed professional certifications and training credentials.
+
+🧪 **Projects**  
+Practical projects developed while learning cybersecurity, cloud, and programming.
+
+🚀 **CyberEd Academy**  
+My ongoing project exploring AI-powered cybersecurity education.
+
+---
+
+## 📚 My Learning Approach
+
+I believe cybersecurity is best learned by **doing**.
+
+My approach:
+
+**Learn → Practice → Build → Document → Improve**
+
+Every project, lab, certification, and experiment is part of the journey toward becoming a stronger cybersecurity and cloud security professional.
+
+---
+
+<p align="center">
+  <i>Building my skills one concept, one lab, and one project at a time. 🔐</i>
+</p>
